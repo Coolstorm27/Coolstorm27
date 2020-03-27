@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aetherite_axe",
+    "customModelName": "Normal",
+    "name": "Aetherite Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 28,
+    "damageVsEntity": 11.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AetheriteGem"
+      }
+    ]
+  }
+}

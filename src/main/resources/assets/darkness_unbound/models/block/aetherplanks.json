@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darkness_unbound:blocks/planks_aether",
+    "up": "darkness_unbound:blocks/planks_aether",
+    "north": "darkness_unbound:blocks/planks_aether",
+    "east": "darkness_unbound:blocks/planks_aether",
+    "south": "darkness_unbound:blocks/planks_aether",
+    "west": "darkness_unbound:blocks/planks_aether",
+    "particle": "darkness_unbound:blocks/planks_aether"
+  }
+}

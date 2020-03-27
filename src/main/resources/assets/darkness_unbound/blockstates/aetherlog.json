@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "darkness_unbound:block/aetherlog"
+    },
+    "facing=north": {
+      "model": "darkness_unbound:block/aetherlog"
+    },
+    "facing=east": {
+      "model": "darkness_unbound:block/aetherlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "darkness_unbound:block/aetherlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "darkness_unbound:block/aetherlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "darkness_unbound:block/aetherlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

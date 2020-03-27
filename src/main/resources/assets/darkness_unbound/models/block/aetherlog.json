@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darkness_unbound:blocks/aether_log_top",
+    "up": "darkness_unbound:blocks/aether_log_top",
+    "north": "darkness_unbound:blocks/aether_log_side",
+    "east": "darkness_unbound:blocks/aether_log_side",
+    "south": "darkness_unbound:blocks/aether_log_side",
+    "west": "darkness_unbound:blocks/aether_log_side",
+    "particle": "darkness_unbound:blocks/aether_log_top"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "darkness_unbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "1": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "2": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "3": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "4": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "5": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "6": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "7": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "8": {
+      "item": "darkness_unbound:aetheritegem"
+    }
+  },
+  "result": {
+    "item": "darkness_unbound:aetheriteoreblock",
+    "count": 1
+  }
+}

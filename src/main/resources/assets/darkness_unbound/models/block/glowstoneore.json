@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "darkness_unbound:blocks/glowstone_ore",
+    "up": "darkness_unbound:blocks/glowstone_ore",
+    "north": "darkness_unbound:blocks/glowstone_ore",
+    "east": "darkness_unbound:blocks/glowstone_ore",
+    "south": "darkness_unbound:blocks/glowstone_ore",
+    "west": "darkness_unbound:blocks/glowstone_ore",
+    "particle": "darkness_unbound:blocks/glowstone_ore"
+  }
+}

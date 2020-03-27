@@ -1,0 +1,13 @@
+{
+  "group": "darkness_unbound",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "darkness_unbound:aetheriteoreblock"
+    }
+  ],
+  "result": {
+    "item": "darkness_unbound:aetheritegem",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "darkness_unbound",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "1": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "2": {
+      "item": "darkness_unbound:aetheritegem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "darkness_unbound:aetheritepickaxe",
+    "count": 1
+  }
+}

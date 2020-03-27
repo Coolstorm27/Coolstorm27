@@ -1,0 +1,11 @@
+{
+  "group": "darkness_unbound",
+  "type": "minecraft:smelting",
+  "experience": 1.4,
+  "ingredient": {
+    "item": "darkness_unbound:aetheriteore"
+  },
+  "result": {
+    "item": "darkness_unbound:aetheritegem"
+  }
+}

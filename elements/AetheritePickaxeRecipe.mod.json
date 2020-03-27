@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AetheritePickaxe"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AetheriteGem"
+      },
+      {
+        "value": "CUSTOM:AetheriteGem"
+      },
+      {
+        "value": "CUSTOM:AetheriteGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "aetheritepickaxerecipe",
+    "namespace": "mod"
+  }
+}

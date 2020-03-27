@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "darkness_unbound:blocks/aetherite_ore_block",
+    "particle": "darkness_unbound:blocks/aetherite_ore_block"
+  }
+}

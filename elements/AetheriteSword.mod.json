@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aetherite_sword",
+    "customModelName": "Normal",
+    "name": "Aetherite Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 9.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 28,
+    "damageVsEntity": 7.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AetheriteGem"
+      }
+    ]
+  }
+}
